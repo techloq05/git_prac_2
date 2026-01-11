@@ -2,4 +2,8 @@ hi this file is now edited.then added a extra sentences for dev.
 again this file is edited.new test branch added.this changes from test branch.
 again this file is edited.hey changes happened.yes this changes from dev branch.
 
+<<<<<<< Updated upstream
 yes this is a urgernt fix.
+=======
+i am working in a new implementation.
+>>>>>>> Stashed changes
